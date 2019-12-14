@@ -1,3 +1,0 @@
-let yourArray; // change this line
-yourArray=["Doyel",235,true,"You can do it","hardwork"];
-console.log(yourArray);
